@@ -21,7 +21,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-repository-url>
+    git clone <https://github.com/alish-shady/Display-Chart-Data>
     cd front-end-technical-test
     ```
 
