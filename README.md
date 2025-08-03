@@ -32,10 +32,11 @@ Follow these instructions to get a copy of the project up and running on your lo
     ```
 
 3.  **Set up environment variables:**
-    Create a `.env` file in the root of the project and add the URL for the mock API server.
-    ```env
-    VITE_API_BASE_URL="http://localhost:3000/data"
-    ```
+    Create a `.env` file in the root of the project and add the URLs for the mock API server.
+    `env
+VITE_API_URL_ONE="http://localhost:3000/0"
+VITE_API_URL_TWO="http://localhost:3000/1" 
+`
 
 ### Running the Application
 
